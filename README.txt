@@ -14,6 +14,6 @@ directly from the local files.
 If you upload the entire folder to a web server, the map will work 
 immediately by opening the "index.html" file.
 
-Example:
+Example: lol
 
 "https://www.example.com/my-map/index.html"
